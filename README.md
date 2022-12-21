@@ -24,9 +24,21 @@
   ``` npm start``` 
 
   ## Usage
- 
+ To use this app go to the link provided below. For offline use, go to the link and hit the "install" button to install the app locally, for offline use.
 
   ![Alt Text](./Text-editor.png)
+
+ The following image shows the applicatiion's manifest.js:
+
+ ![Alt Text](./Manifest.png)
+
+ The following image shows the application's service worker:
+
+ ![Alt Text](./service-worker.png)
+
+ The following image shows the application's IndexDB storage:
+
+  ![Alt Text](./IndexDB.png)
 
   ## Questions?
   ### Reach me here: 
